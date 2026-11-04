@@ -1,21 +1,24 @@
 # Customer Churn Prediction Dashboard
 
-A Power BI project focused on exploring customer churn patterns and presenting key retention insights through an interactive dashboard.
+An interactive Power BI project for exploring customer churn patterns and presenting retention insights through a dashboard.
 
 ## Project file
 
-- `Customer_Churn_Prediction.pbix` — Power BI report file. Download it and open it with Microsoft Power BI Desktop.
+- `Customer_Churn_Prediction.pbix` — Power BI report file. Open it with Microsoft Power BI Desktop.
 
-## Tools
+## Tools & technologies
 
 - Microsoft Power BI Desktop
-- Power Query (for data preparation, where applicable)
-- DAX (for report calculations, where applicable)
+- Power Query for data preparation (where applicable)
+- DAX for report calculations (where applicable)
 
-## How to view
+## How to use
 
-1. Open the `.pbix` file using Power BI Desktop.
-2. Refresh the data only if the original data source is available and configured.
-3. Explore the report pages, filters, and visuals.
+1. Download the `.pbix` file from this repository.
+2. Open it in Power BI Desktop.
+3. Refresh data only if the original data source is available and configured.
+4. Explore the report pages, visuals, slicers, and filters.
 
-> Note: The PBIX report is provided as the project artifact. Data-source credentials or external source files, if required, must be configured locally.
+## Note
+
+Any external data sources or credentials required by the report may need to be configured locally.
